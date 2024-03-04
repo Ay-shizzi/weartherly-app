@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weatherly-app/static/css/main.6b787eff.css",
+    "main.js": "/weatherly-app/static/js/main.08729a65.js",
+    "static/media/cloudy.png": "/weatherly-app/static/media/cloudy.a6d0b7d87d2022baaf47.png",
+    "index.html": "/weatherly-app/index.html",
+    "main.6b787eff.css.map": "/weatherly-app/static/css/main.6b787eff.css.map",
+    "main.08729a65.js.map": "/weatherly-app/static/js/main.08729a65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b787eff.css",
+    "static/js/main.08729a65.js"
+  ]
+}
