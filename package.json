@@ -1,5 +1,6 @@
 {
-  "name": "my-weather-app",
+  "homepage": "https://Ay-shizzi.github.io/weatherly-app",
+  "name": "weatherly",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +13,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
